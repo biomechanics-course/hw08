@@ -1,6 +1,6 @@
 # Homework 08
 
-See the [PDF](hw08.pdf) assignment, or view as a [Jupyter notebook](hw08.ipynb).
+See the [PDF](hw08.pdf) assignment, or view as a [Jupyter notebook](hw08.ipynb). Also be sure to clone the [dynamicWalking](../dynamicWalking) repository for this assignment.
 
 When you accept the assignment, GitHub will clone the files into your own private repository. You may then clone those files onto your local machine. To submit assignment, commit changes and push your code back to GitHub.
 
